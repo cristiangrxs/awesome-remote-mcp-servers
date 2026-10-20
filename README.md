@@ -4055,6 +4055,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Stellara MCP connector](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/it.natlex/stellara-mcp)
   🔐 - Swiss Ephemeris astrology: natal charts, transits and synastry, with historical UTC offsets.
 - [Synaplan](https://synaplan.com) `https://web.synaplan.com/mcp`
+  [![Synaplan MCP connector](https://glama.ai/mcp/connectors/io.github.metadist/synaplan/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.metadist/synaplan)
   🔑 🔐 - Semantic document search (RAG), long-term user memories, and AI chat over your Synaplan workspace.
 - [toolvend](https://toolvend.dev/) `https://toolvend.dev/mcp`
   [![toolvend MCP connector](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.toolvend/dns-whois-domain-tools)

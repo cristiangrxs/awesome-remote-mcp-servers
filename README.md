@@ -1963,6 +1963,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [Synaplan](https://synaplan.com) `https://web.synaplan.com/mcp`
+  🔑 🔐 - Semantic document search (RAG), long-term user memories, and AI chat over your Synaplan workspace.
 - [艾达 ADA](https://ai.hengyu.group) `https://ai.hengyu.group/mcp`
   [![艾达 ADA MCP connector](https://glama.ai/mcp/connectors/group.hengyu.ai/ada/badges/score.svg)](https://glama.ai/mcp/connectors/group.hengyu.ai/ada)
   🔓 - Shared public warehouse for agents: search, fetch and store reusable knowledge, no signup and no key required.
